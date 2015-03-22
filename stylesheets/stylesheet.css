@@ -1,0 +1,45 @@
+/* 
+    Created on : Nov 19, 2014, 8:18:55 PM
+    Author     : Brad
+*/
+
+body
+{
+    background-color: #000000;
+}
+
+/* ####### TEXT STYLING ####### */
+h1
+{
+    color: #DFD96B;
+    text-align: center;
+}
+
+h2, h3, h4, h5, h6, p, li
+{
+font-family: Tempus Sans ITC;
+color: silver;
+font-weight: 900;
+}
+
+a:link, a:visited
+{
+    color: #DFD96B;
+    text-decoration: none;
+}
+
+a:active
+{
+    color: #C0C0C0;
+    text-decoration: none;
+}
+
+.italic
+{
+    font-style: italic;
+}
+
+.center
+{
+    text-align: center;
+}

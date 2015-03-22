@@ -1,0 +1,257 @@
+* { margin: 0; padding: 0; }
+body { background:#c1c1c1; }
+a { outline: 0; }
+/*  h1 { text-align: center; margin: 0 auto; font: bold 32px Helvetica, Arial, Sans-Serif; margin: 70px auto 10px; letter-spacing: -1px; }
+h2 { text-align: center; padding: 5px; margin: 10px; background: #fff2b6; color: #398138; }  */
+ 
+#garagedoor {
+	margin: 10px auto;
+	list-style: none;
+	background: url(../images/advent/menu-bg1.jpg) no-repeat;
+	width: 800px;
+	overflow: auto;	
+}
+#garagedoor li {
+	width: 160px;
+	height: 100px;
+	display: block;
+	float: left;
+}
+
+/* SECOND ROW */
+#garagedoor2 {
+	margin: 10px auto;
+	list-style: none;
+	background: url(../images/advent/menu-bg2.jpg) no-repeat;
+	width: 800px;
+	overflow: auto;	
+}
+#garagedoor2 li {
+	width: 160px;
+	height: 100px;
+	display: block;
+	float: left;
+}
+/* END SECOND ROW */
+
+/* THIRD ROW */
+#garagedoor3 {
+	margin: 10px auto;
+	list-style: none;
+	background: url(../images/advent/menu-bg3.jpg) no-repeat;
+	width: 800px;
+	overflow: auto;	
+}
+#garagedoor3 li {
+	width: 160px;
+	height: 100px;
+	display: block;
+	float: left;
+}
+/* END THIRD ROW */
+
+/* FOURTH ROW */
+#garagedoor4 {
+	margin: 10px auto;
+	list-style: none;
+	background: url(../images/advent/menu-bg4.jpg) no-repeat;
+	width: 800px;
+	overflow: auto;	
+}
+#garagedoor4 li {
+	width: 160px;
+	height: 100px;
+	display: block;
+	float: left;
+}
+/* END FOURTH ROW */
+
+/* FIFTH ROW */
+#garagedoor5 {
+	margin: 10px auto;
+	list-style: none;
+	background: url(../images/advent/menu-bg5.jpg) no-repeat;
+	width: 800px;
+	overflow: auto;	
+}
+#garagedoor5 li {
+	width: 160px;
+	height: 100px;
+	display: block;
+	float: left;
+}
+/* END FIFTH ROW */
+
+/* Modernizer Enabled */
+.csstransitions #garagedoor li {
+	-webkit-transition: background-position 0.6s ease;
+	-moz-transition: background-position 0.6s ease;
+	-o-transition-property: background-position 0.6s ease;
+}
+.csstransitions #garagedoor li:hover {
+	background-position: 0 -100px !important;
+}
+
+#garagedoor li#shutter1 {
+	background: url(../images/advent/shutter1.gif) 0 0 no-repeat; 
+}
+#garagedoor li#shutter2 {
+	background: url(../images/advent/shutter2.gif) 0 0 no-repeat; 
+}
+#garagedoor li#shutter3 {
+	background: url(../images/advent/shutter3.gif) 0 0 no-repeat; 
+}
+#garagedoor li#shutter4 {
+	background: url(../images/advent/shutter4.gif) 0 0 no-repeat; 
+}
+#garagedoor li#shutter5 {
+	background: url(../images/advent/shutter5.gif) 0 0 no-repeat; 
+}
+
+/* SECOND ROW */
+.csstransitions #garagedoor2 li {
+	-webkit-transition: background-position 0.6s ease;
+	-moz-transition: background-position 0.6s ease;
+	-o-transition-property: background-position 0.6s ease;
+}
+.csstransitions #garagedoor2 li:hover {
+	background-position: 0 -100px !important;
+}
+
+#garagedoor2 li#shutter6 {
+	background: url(../images/advent/shutter6.gif) 0 0 no-repeat; 
+}
+#garagedoor2 li#shutter7 {
+	background: url(../images/advent/shutter7.gif) 0 0 no-repeat; 
+}
+#garagedoor2 li#shutter8 {
+	background: url(../images/advent/shutter8.gif) 0 0 no-repeat; 
+}
+#garagedoor2 li#shutter9 {
+	background: url(../images/advent/shutter9.gif) 0 0 no-repeat; 
+}
+#garagedoor2 li#shutter10 {
+	background: url(../images/advent/shutter10.gif) 0 0 no-repeat; 
+}
+
+#garagedoor2 a {
+   width: 160px;
+   height: 100px;
+   display: block;
+   background: url(../images/advent/window.png) no-repeat bottom center;
+   text-indent: -9999px;
+}
+/* END OF SECOND ROW */
+
+/* THIRD ROW */
+.csstransitions #garagedoor3 li {
+	-webkit-transition: background-position 0.6s ease;
+	-moz-transition: background-position 0.6s ease;
+	-o-transition-property: background-position 0.6s ease;
+}
+.csstransitions #garagedoor3 li:hover {
+	background-position: 0 -100px !important;
+}
+
+#garagedoor3 li#shutter11 {
+	background: url(../images/advent/shutter11.gif) 0 0 no-repeat; 
+}
+#garagedoor3 li#shutter12 {
+	background: url(../images/advent/shutter12.gif) 0 0 no-repeat; 
+}
+#garagedoor3 li#shutter13 {
+	background: url(../images/advent/shutter13.gif) 0 0 no-repeat; 
+}
+#garagedoor3 li#shutter14 {
+	background: url(../images/advent/shutter14.gif) 0 0 no-repeat; 
+}
+#garagedoor3 li#shutter15 {
+	background: url(../images/advent/shutter15.gif) 0 0 no-repeat; 
+}
+
+#garagedoor3 a {
+   width: 160px;
+   height: 100px;
+   display: block;
+   background: url(../images/advent/window.png) no-repeat bottom center;
+   text-indent: -9999px;
+}
+/* END OF THIRD ROW */
+
+/* FOURTH ROW */
+.csstransitions #garagedoor4 li {
+	-webkit-transition: background-position 0.6s ease;
+	-moz-transition: background-position 0.6s ease;
+	-o-transition-property: background-position 0.6s ease;
+}
+.csstransitions #garagedoor4 li:hover {
+	background-position: 0 -100px !important;
+}
+
+#garagedoor4 li#shutter16 {
+	background: url(../images/advent/shutter16.gif) 0 0 no-repeat; 
+}
+#garagedoor4 li#shutter17 {
+	background: url(../images/advent/shutter17.gif) 0 0 no-repeat; 
+}
+#garagedoor4 li#shutter18 {
+	background: url(../images/advent/shutter18.gif) 0 0 no-repeat; 
+}
+#garagedoor4 li#shutter19 {
+	background: url(../images/advent/shutter19.gif) 0 0 no-repeat; 
+}
+#garagedoor4 li#shutter20 {
+	background: url(../images/advent/shutter20.gif) 0 0 no-repeat; 
+}
+
+#garagedoor4 a {
+   width: 160px;
+   height: 100px;
+   display: block;
+   background: url(../images/advent/window.png) no-repeat bottom center;
+   text-indent: -9999px;
+}
+/* END OF FOURTH ROW */
+
+/* FIFTH ROW */
+.csstransitions #garagedoor5 li {
+	-webkit-transition: background-position 0.6s ease;
+	-moz-transition: background-position 0.6s ease;
+	-o-transition-property: background-position 0.6s ease;
+}
+.csstransitions #garagedoor5 li:hover {
+	background-position: 0 -100px !important;
+}
+
+#garagedoor5 li#shutter21 {
+	background: url(../images/advent/shutter21.gif) 0 0 no-repeat; 
+}
+#garagedoor5 li#shutter22 {
+	background: url(../images/advent/shutter22.gif) 0 0 no-repeat; 
+}
+#garagedoor5 li#shutter23 {
+	background: url(../images/advent/shutter23.gif) 0 0 no-repeat; 
+}
+#garagedoor5 li#shutter24 {
+	background: url(../images/advent/shutter24.gif) 0 0 no-repeat; 
+}
+#garagedoor5 li#shutter25 {
+	background: url(../images/advent/shutter25.gif) 0 0 no-repeat; 
+}
+
+#garagedoor5 a {
+   width: 160px;
+   height: 100px;
+   display: block;
+   background: url(../images/advent/window.png) no-repeat bottom center;
+   text-indent: -9999px;
+}
+/* END OF FIFTH ROW */
+
+#garagedoor a {
+   width: 160px;
+   height: 100px;
+   display: block;
+   background: url(../images/advent/window.png) no-repeat bottom center;
+   text-indent: -9999px;
+}

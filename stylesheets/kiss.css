@@ -1,0 +1,27 @@
+/* 
+    Created on : Nov 19, 2014, 11:58:42 PM
+    Author     : Brad
+*/
+
+.home
+{
+    float: left;
+    padding-bottom: 25px;
+}
+
+.top
+{
+    float: right;
+    padding-bottom: 25px;
+}
+
+.clear
+{
+    clear: both;
+}
+
+img.align_left
+{
+    float: left;
+    padding: 0px 10px;
+}

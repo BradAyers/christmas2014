@@ -1,0 +1,90 @@
+/* 
+    Created on : Nov 26, 2014, 1:37:23 PM
+    Author     : Brad
+*/
+
+#calendarContain
+{
+    width: 100%;
+    float: left;
+    background-color: #c1c1c1;
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px; 
+    border-radius: 12px;
+    -moz-box-shadow: 4px 4px 14px #c1c1c1; 
+    -webkit-box-shadow: 4px 4px 14px #c1c1c1; 
+    box-shadow: 4px 4px 14px #000;
+}
+
+#container3 
+{
+    float: left;
+    width: 100%;
+    background: black;
+    overflow: hidden;
+    position: relative;
+}
+
+#container2
+{
+    float: left;
+    width: 100%;
+    background: black;
+    position: relative;
+    right: 16%;
+}
+
+#container1
+{
+    float: left;
+    width: 100%;
+    background: black;
+    position: relative;
+    right: 68%;
+}
+
+#col_left
+{
+    float: left;
+    width: 16%;
+    position: relative;
+    left: 84%;
+    overflow: hidden;
+}
+
+#col_middle
+{
+    float: left;
+    width: 67%;
+    position: relative;
+    left: 84%;
+    overflow: hidden;
+}
+#col_right
+{
+    float: left;
+    width: 16%;
+    position: relative;
+    left: 84.5%;   
+    overflow: hidden;
+}
+
+#left_column
+{
+    float: left;
+    padding: 0px;
+    width: 190px;
+    height: 750px;
+    background-image: url("../images/marginh_bgl.jpg");
+    background-repeat: repeat-y;
+}
+
+#right_column
+{
+    float: right;
+    padding: 0px;
+    width: 190px;
+    height: 750px;
+    background-image: url("../images/marginh_bgr.jpg");
+    background-repeat: repeat-y;
+}

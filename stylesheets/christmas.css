@@ -1,0 +1,45 @@
+/* 
+    Created on : Nov 19, 2014, 10:40:16 PM
+    Author     : Brad
+*/
+
+/* ####### CHRISTMAS TAG STYLES ####### */
+div.tag_box 
+{
+    padding-top: 90px;
+}
+
+a img 
+{
+      border: none;
+}
+
+/* ####### MIDDLE COLUMN CONTENT ####### */
+div.merry_xmas 
+{
+    display: block;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 405px;
+}
+
+#quote
+{
+    margin-left: 25px;
+    margin-right: 25px;
+    line-height: .3;
+}
+    
+#nativity
+{
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 625px;
+}
+
+.right
+    {
+        text-align: right;
+    }

@@ -1,0 +1,10 @@
+/* 
+    Created on : Nov 20, 2014, 9:31:45 PM
+    Author     : Brad
+*/
+
+img.center
+{
+    display: block;
+    margin: 0 auto;
+}

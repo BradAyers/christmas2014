@@ -1,0 +1,75 @@
+/* 
+    Created on : Nov 21, 2014, 12:36:21 PM
+    Author     : Brad
+*/
+
+div.recipel
+{
+    float: left;
+    position: relative;
+    margin: 20px 5px;
+    padding: 0px 5px;
+    line-height: .00001;
+    width: 300px;
+    height: 180px;
+    border: 10px double #DFD96B;
+    background-color: blanchedalmond;
+    overflow: hidden;
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px; 
+    border-radius: 12px;
+    -moz-box-shadow: 4px 4px 14px #000; 
+    -webkit-box-shadow: 4px 4px 14px #000;
+    box-shadow: 4px 4px 14px #000;
+}
+
+div.reciper
+{
+    float: right;
+    position: relative;
+    margin: 20px 5px;
+    padding: 0px 5px;
+    line-height: .00001;
+    width: 300px;
+    height: 180px;
+    background-color: blanchedalmond;
+    border: 10px double #DFD96B;
+    overflow: hidden;
+    -moz-border-radius: 12px;
+    -webkit-border-radius: 12px; 
+    border-radius: 12px;
+    -moz-box-shadow: 4px 4px 14px #000; 
+    -webkit-box-shadow: 4px 4px 14px #000; 
+    box-shadow: 4px 4px 14px #000;
+}
+
+.recipel h4
+{
+    font-family: Tempus Sans ITC;
+    color: black;
+    font-weight: lighter;
+}
+
+.reciper h4
+{
+    font-family: Tempus Sans ITC;
+    color: black;
+    font-weight: lighter;
+}
+
+.baking
+{
+    float:left;
+    padding: 0px;
+    margin: 0px;
+}
+
+.underline
+{
+    text-decoration: underline;
+}
+
+.bold
+{
+    font-weight: bold;
+}

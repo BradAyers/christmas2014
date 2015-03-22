@@ -1,0 +1,76 @@
+
+/* 
+    Created on : Nov 20, 2014, 9:41:06 PM
+    Author     : Brad
+*/
+#elves
+{
+    float: left;
+    width: 223px;
+    height: 226px;
+    padding: 0px 10px 0px 0px;
+}
+
+#address
+{
+    float: left;
+    width: auto;
+    margin: 0;
+    padding: 0;
+}
+
+#address ul
+{
+    padding: 0;
+}
+
+#address li
+{
+    list-style-type: none;
+    line-height: .1;
+    padding: 0;
+    margin: 0;
+}
+
+.clear
+{
+    clear: both;
+}
+
+#econtact
+{
+    line-height: .1;
+    padding: 10px 0px;
+}
+
+#clearfix:after 
+{ 
+   content: "&nbsp;"; 
+   visibility: hidden; 
+   display: block; 
+   height: 0; 
+   clear: both;
+}
+
+#versecontainer
+{
+    float: right;
+    width: auto;
+}
+
+#verse
+{
+    float: left;
+    width: 225px;
+    height: 250px;
+    margin: 0px;
+    padding-right: 10px;
+}
+
+#candle
+{
+    float: left;
+    width: 250px;
+    margin: 0;px;
+    padding-left: 10px;
+}
